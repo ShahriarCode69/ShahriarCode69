@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shahriar
 - 👀 I’m interested in Web development,programming,entrepreneurship
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 💞️ I’m looking for frontend clients
+- 📫 How to reach me: shahriarcode69@gmail.com
 
 <!---
 ShahriarCode69/ShahriarCode69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
