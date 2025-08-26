@@ -25,6 +25,6 @@ const aboutMe = {
 ![](https://nirzak-streak-stats.vercel.app/?user=shahriarcode69&theme=graywhite&hide_border=true)
 
 
-# ✦ You Can Find Me On
+# ✦ You Can Connect With Me On
 
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahriarcode) [![TikTok](https://img.shields.io/badge/TikTok-gray.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shahriarcode) [![X](https://img.shields.io/badge/X-gray.svg?logo=X&logoColor=white)](https://x.com/shahriarcode) [![YouTube](https://img.shields.io/badge/YouTube-gray.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shahriarcode) [![email](https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white)](mailto:shahriarcode69@gmail.com)
