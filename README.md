@@ -16,7 +16,7 @@ const aboutMe = {
 
 # ✦ Technologies I Use
 
-![JavaScript](https://img.shields.io/badge/javascript-gray.svg?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-gray.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-gray.svg?style=flat&logo=css3&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-gray?style=flat&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-gray.svg?style=flat&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-gray.svg?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-gray.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-gray.svg?style=flat&logo=css3&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-gray?style=flat&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-gray.svg?style=flat&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-gray?style=flat&logo=tailwind-css&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-gray.svg?style=flat&logo=figma&logoColor=white) <br>
 ![Vercel](https://img.shields.io/badge/vercel-gray.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-gray.svg?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-gray.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-gray?style=flat&logo=supabase&logoColor=white)
 
