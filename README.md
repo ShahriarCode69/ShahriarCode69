@@ -1,30 +1,13 @@
-<!-- Banner -->
-<p align="center">
-  <img src="/assets/hellobanner.png" alt="banner" />
-</p>
 
-<!-- About Me -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shahriarcode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahriarzimam/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@shahriarcode) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ShahriarCode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ShahriarCode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahriarcode69@gmail.com) 
 
-```js
-const aboutMe = {
-  name: "As Shahriar",
-  alias: "shahriarcode",
-  role: "Front-end Web Developer",
-  passion: ["Web Development", "Teaching how to Code"]
-};
-```
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShahriarCode69&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShahriarCode69&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarCode69&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# ✦ Technologies I Use
-
-![JavaScript](https://img.shields.io/badge/javascript-gray.svg?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-gray.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-gray.svg?style=flat&logo=css3&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-gray?style=flat&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-gray.svg?style=flat&logo=react&logoColor=white) ![Figma](https://img.shields.io/badge/figma-gray.svg?style=flat&logo=figma&logoColor=white) <br>
-![Vercel](https://img.shields.io/badge/vercel-gray.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-gray.svg?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-gray.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-gray?style=flat&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-gray?style=flat&logo=supabase&logoColor=white)
-
-# ✦ GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shahriarcode69&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahriarcode69&theme=graywhite&hide_border=true)
-
-
-# ✦ You Can Find Me On
-
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahriarcode) [![TikTok](https://img.shields.io/badge/TikTok-gray.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shahriarcode) [![X](https://img.shields.io/badge/X-gray.svg?logo=X&logoColor=white)](https://x.com/shahriarcode) [![YouTube](https://img.shields.io/badge/YouTube-gray.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shahriarcode) [![email](https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white)](mailto:shahriarcode69@gmail.com)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
