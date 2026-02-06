@@ -4,8 +4,8 @@
        <img src="/assets/linkedin.png" width="60px"/>
     </a>
     
- <a href="/assets/insta.png">
-       <img src="https://instagram.com/https://www.instagram.com/shahriarcode" width="60px"/>
+ <a href="https://instagram.com/https://www.instagram.com/shahriarcode">
+       <img src="/assets/insta.png" width="60px"/>
     </a>
 
 <a href="https://x.com/https://x.com/ShahriarCode">
