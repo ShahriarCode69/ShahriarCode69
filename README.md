@@ -1,19 +1,19 @@
 ### Contact Info
 
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shahriarzimam/">
-       <img src="/assets/linkedin.png" width="40px"/>
+       <img src="/assets/linkedin.png" width="70px"/>
     </a>
     
  <a href="/assets/insta.png">
-       <img src="https://instagram.com/https://www.instagram.com/shahriarcode" width="40px"/>
+       <img src="https://instagram.com/https://www.instagram.com/shahriarcode" width="70px"/>
     </a>
 
 <a href="https://x.com/https://x.com/ShahriarCode">
-       <img src="/assets/x.png" width="40px"/>
+       <img src="/assets/x.png" width="70px"/>
     </a>
 
 <a href="https://youtube.com/@https://www.youtube.com/@ShahriarCode">
-       <img src="/assets/youtube.png" width="40px"/>
+       <img src="/assets/youtube.png" width="70px"/>
     </a>
 
 # 💻 Tech Stack:
