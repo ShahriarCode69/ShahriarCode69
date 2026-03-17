@@ -1,4 +1,13 @@
-### Contact Info
+# Hi, I'm Shahriar 👋
+
+- 📍 From Dhaka, Bangladesh
+- 💻 Frontend Developer
+- ⚡ Building with Next.js, React, and Tailwind CSS
+- 🌱 Learning TypeScript and full-stack development
+- 🎨 Focused on clean UI and great user experience
+- 🤝 Open to remote work, freelance projects, and collaboration
+
+# Contact Info
 
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shahriarzimam/">
        <img src="/assets/linkedin.png" width="60px"/>
@@ -17,13 +26,12 @@
     </a>
 
 <br/>
-<br/>
-<br/>
 
-# 💻 Tech Stack:
+# 💻 Technologies i use everyday:
 
 <img width='450px' src="/assets/techstack.png" alt="My Skills" />
-<img src="https://skillicons.dev/icons?i=figma,xd,premiere,photoshop&theme=dark&perline=6" alt="My Skills" />
+
+<br/>
 
 # 📊 GitHub Stats:
 
