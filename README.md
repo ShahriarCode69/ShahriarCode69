@@ -1,11 +1,11 @@
 # Hi, I'm Shahriar 👋
 
--> 📍 From Dhaka, Bangladesh
--> 💻 Frontend Developer
--> ⚡ Building with Next.js, React, and Tailwind CSS
--> 🌱 Learning TypeScript and full-stack development
--> 🎨 Focused on clean UI and great user experience
--> 🤝 Open to remote work, freelance projects, and collaboration
+📍 From Dhaka, Bangladesh <br/>
+💻 Frontend Developer <br/>
+⚡ Building with Next.js, React, and Tailwind CSS <br/>
+🌱 Learning TypeScript and full-stack development <br/>
+🎨 Focused on clean UI and great user experience <br/>
+🤝 Open to remote work, freelance projects, and collaboration <br/> 
 
 # Contact Info
 
