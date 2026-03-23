@@ -5,7 +5,7 @@
 ⚡ Building with Next.js, React, and Tailwind CSS <br/>
 🌱 Learning TypeScript and full-stack development <br/>
 🎨 Focused on clean UI and great user experience <br/>
-🤝 Open to remote work, freelance projects, and collaboration <br/> 
+🤝 Open to remote work, freelance projects, and collaboration
 <br/>
 
 # 💻 Technologies I Use Everyday
