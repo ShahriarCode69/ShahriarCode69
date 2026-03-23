@@ -6,8 +6,6 @@
 🌱 Learning TypeScript and full-stack development <br/>
 🎨 Focused on clean UI and great user experience <br/>
 🤝 Open to remote work, freelance projects, and collaboration <br/> 
-
-<br/>
 <br/>
 
 # 💻 Technologies I Use Everyday
@@ -20,9 +18,6 @@
 
 ### Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-
-<br/>
 <br/>
 
 # 📊 GitHub Stats:
@@ -30,8 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShahriarCode69&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShahriarCode69&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarCode69&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
 <br/>
 
 # 🌐 Connect With Me
