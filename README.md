@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asshahriar&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asshahriar&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
 <br/>
 
