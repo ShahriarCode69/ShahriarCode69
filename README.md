@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=asshahriar&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asshahriar&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 <br/>
 <br/>
 
